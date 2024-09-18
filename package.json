@@ -1,5 +1,5 @@
 {
-  "homepage": "https://shivengoomer.github.io/adopt-me",
+  "homepage": "https://shivengoomer.github.io/adopt-them",
   "name": "citr-v8-project",
   "version": "8.0.0",
   "description": "Complete Intro to React v8 project",
@@ -34,6 +34,4 @@
     "react-dom": "18.2.0",
     "react-router-dom": "6.4.1"
   }
-  
 }
-
