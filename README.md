@@ -3,9 +3,6 @@
 ## Project Overview
 This is the **Complete Intro to React v8 project**, based on the course by Brian Holt. The project leverages React with modern tools such as Vite, React Query, and React Router DOM to create a scalable and fast web application.
 
-### Live Demo
-[View Live Demo](https://shivengoomer.github.io/adopt-them)
-
 ---
 
 ## Features
